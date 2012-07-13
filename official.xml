@@ -2,7 +2,6 @@
 <Module>
 <ModulePrefs title="Ameba芸能人･有名人ブログ ランキング＆更新情報" title_url="http://official.ameba.jp/" screenshot="http://stat.ameba.jp/blog/img/ameba/common/thum_igoogle.jpg" thumbnail="http://stat.ameba.jp/blog/img/ameba/common/thum_igoogle.jpg" description="Ameba（アメブロ）芸能人・有名人ブログの総合アクセスランキング情報と、オススメ芸能人のブログ速報を表示します。" author="CyberAgent, Inc." author_email="ameba.officalblog@gmail.com">
 <Require feature="dynamic-height"/>
-<Require feature="tabs"/>
 <Require feature="setprefs"/>
 </ModulePrefs>
 
@@ -10,11 +9,6 @@
 <![CDATA[
 
 <script src="//talkgadget.google.com/hangouts/_/api/hangout.js?v=1.1"></script>
-
-<script type="text/javascript" src="http://stat100.ameba.jp/common_style/js/util.js"></script>
-
-
-
 
 ]]>
 </Content>
