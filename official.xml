@@ -9,6 +9,7 @@
 <Content type="html" view="home">
 <![CDATA[
 
+<script src="//talkgadget.google.com/hangouts/_/api/hangout.js?v=1.1"></script>
 
 <script type="text/javascript" src="http://stat.ameba.jp/common_style/js/util.js"></script>
 
